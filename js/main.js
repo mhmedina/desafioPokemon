@@ -11,32 +11,32 @@ let pokemons = [
   {
       nombre: 'Bulbasaur',
       tipo: 'Planta',
-      img: 'https://jusrecondo.github.io/hosted-assets/bulbasaur.png'
+      img: 'img/bulbasaur.png'
   },
   {
       nombre: 'Pikachu',
       tipo: 'Eléctrico',
-      img: 'https://jusrecondo.github.io/hosted-assets/pikachu.png'
+      img: 'img/pikachu.png'
   },
   {
       nombre: 'Togepi',
       tipo: 'Hada',
-      img: 'https://jusrecondo.github.io/hosted-assets/togepi.png'
+      img: 'img/togepi.png'
   },
    {
   nombre: 'Charizard',
   tipo: 'Fuego/Volador',
-  img: 'https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/95/latest/20160817212623/Charizard.png/300px-Charizard.png'
+  img: 'img/Charizard.png'
 },
 {
   nombre: 'Squirtle',
   tipo: 'Agua',
-  img: 'https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e3/latest/20160309230820/Squirtle.png/300px-Squirtle.png'
+  img: 'img/Squirtle.png'
 },
 {
   nombre: 'Jigglypuff',
   tipo: 'Normal/Hada',
-  img: 'https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/af/latest/20150110232910/Jigglypuff.png/300px-Jigglypuff.png'
+  img: 'img/Jigglypuff.png'
 }// Agregar más pokemones aquí
 ];
 
